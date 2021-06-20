@@ -1,5 +1,5 @@
 # SFVOffset
-场景视点偏移改善激光雷达点云分割,该代码在SqueezeSeg(https://github.com/BichenWuUCB/SqueezeSeg)基础上修改完成。
+场景视点偏移改善激光雷达点云分割,该代码在SqueezeSeg基础上修改完成,https://github.com/BichenWuUCB/SqueezeSeg
 
 ## 环境安装
 'pip install requirements.txt' 
